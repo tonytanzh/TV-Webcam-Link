@@ -1,0 +1,7 @@
+{
+  "name": "Android TV Motion Display",
+  "description": "An application that plays a video when idle and switches to a live webcam feed with a brand overlay when motion is detected. Designed to simulate an Android TV app experience.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
